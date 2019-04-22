@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.49823058, g: 0.5415667, b: 0.59074235, a: 1}
+  m_IndirectSpecularColor: {r: 0.31197062, g: 0.38303545, b: 0.4543816, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -901,7 +901,7 @@ GameObject:
   - component: {fileID: 1518208921}
   m_Layer: 0
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: Checkpoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -12,6 +12,7 @@ TagManager:
   - ZWallRight
   - EnemyZ
   - XWallRight
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
