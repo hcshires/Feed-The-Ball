@@ -23,7 +23,6 @@ public class GameController : MonoBehaviour
     private Vector3 playerPosition;
     private bool isInstRunning = false; // Boolean for if instructions are on screen
     private string level;
-    private bool checkpoint = false;
 
     void Awake() // Prevents GameObjects from resetting upon Level update
     {
