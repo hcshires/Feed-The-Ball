@@ -9,7 +9,7 @@ A 3D platformer built in Unity 3D with C#. Play as a spherical character and col
 - Scoring and instructions
 - Level selection and main menu
 
-![Feed The Ball screenshot](https://hcshires.github.io/images/feed-the-ball.jpg)
+![Feed The Ball screenshot](https://hcshires.github.io/assets/images/feed-the-ball.jpg)
 
 A working version can be viewed and played at [https://hcshires.github.io/games/feed-the-ball](https://hcshires.github.io/games/feed-the-ball)
 
