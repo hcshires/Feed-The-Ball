@@ -27,6 +27,8 @@ Players of “Feed the Ball” can pledge an amount on a crowdfunding project pa
 
 A working version can be viewed and played at [https://hcshires.github.io/games/feed-the-ball](https://hcshires.github.io/games/feed-the-ball)
 
+View my presentation slides: https://hcshires.github.io/assets/files/feed-the-ball-slides.pptx
+
 ## Known Issues
 - After selecting a level from the level selection screen, more than one ball characters spawn
 - Controlling the ball is too realistic and not user-friendly/makes the game hard to play
