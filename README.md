@@ -1,11 +1,11 @@
 # Feed The Ball - Unity 3D Platfomer
 
-A 3D platformer built in Unity 3D with C#. Play as a spherical character and collect fancy, spining gold coins while avoiding the pesky pills of doom! Advance to the next level by collecting all the coins in the level and reaching the green pad.
+“Feed The Ball” is a fast-paced, interactive 3D platformer built in Unity 3D with C#. Play as a spherical character and collect fancy, spining gold coins while avoiding the pesky pills of doom! Advance to the next level by collecting all the coins in the level and reaching the green pad.
 
 ## Game Includes
 - 3 Levels with unique obstacles and game objects
 - Enemy bodies and platform structures
-- Custom, dumb textures
+- Custom (crappy) textures
 - Scoring and instructions
 - Level selection and main menu
 
@@ -19,10 +19,7 @@ A 3D platformer built in Unity 3D with C#. Play as a spherical character and col
 - Controlling the ball is too realistic and not user-friendly/makes the game hard to play
 - No end game (nothing happens after level 3)
 
-**Below is additional information about my game written to satisfy the requirements of the AP Computer Science Principles May 2019 Create task.**
-
-## Full Project Description
-“Feed the Ball” is a fast-paced, interactive 3D Game involving a ball rolling on a field, attempting to avoid enemies, while collecting coins and power-ups to advance to the next level. 
+**Below is additional information about my game written to satisfy the requirements of the AP Computer Science Principles May 2019 Create task:**
 
 ## Development
 I used my own functions as well as Unity functions to add movement, collisions, score, and respawn, with each object using one script. The enemies follow similar logic as the player but continuously and without player input. In the player object, the player can use the keyboard to move the sphere and advance to the next level after crossing a checkpoint. The purpose of each item to create an engaging and entertaining environment for players to see how quickly and/or easily they can advance to the next level.
