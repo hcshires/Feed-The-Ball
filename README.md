@@ -11,8 +11,8 @@ A 3D platformer built in Unity 3D with C#. Play as a spherical character and col
 
 ![Feed The Ball screenshot](https://hcshires.github.io/assets/images/feed-the-ball.jpg)
 
-- A working version can be viewed and played at [https://hcshires.github.io/games/feed-the-ball](https://hcshires.github.io/games/feed-the-ball)
-- View my presentation slides: https://hcshires.github.io/assets/files/feed-the-ball-slides.pptx
+## Play the latest release
+[https://hcshires.github.io/games/feed-the-ball](https://hcshires.github.io/games/feed-the-ball)
 
 ## Known Issues
 - After selecting a level from the level selection screen, more than one ball characters spawn
@@ -46,3 +46,5 @@ How can I as a software developer, create a 3D platform/shooter game with ML imp
 
 ### Solution - Philanthropy Model:
 Players of “Feed the Ball” can pledge an amount on a crowdfunding project page that will go directly to charity. Kickstarter is the platform that allows the developed game to be able to generate income for charity (versus an alternate fundraiser).
+
+- View my presentation slides: https://hcshires.github.io/assets/files/feed-the-ball-slides.pptx
